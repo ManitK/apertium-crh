@@ -76,10 +76,8 @@ Multichar_Symbols
 %<ger_abst%>      ! -Uv
 
 ! Verbal adjectives
-%<gpr_rsub%>      !
 %<gpr_fut%>       ! -{I}r/-{A}r
 %<gpr_past%>      ! -{G}{A}n
-
 %<gpr_fut2%>      ! -{E}c{A}{G}
 %<gpr_pot%>       ! {j}{I}/-c{I}
 
